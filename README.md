@@ -1,0 +1,2 @@
+# gps
+google-site-verification=B5Q4QFAabjmdT9LOxzNDtWKwFaY1rh5JCtf1MZlZdAI
